@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my hello world github project
+Hello my name is Seth and this is my first hack at Github. I'd like to be master of coding. 
